@@ -10,7 +10,6 @@ https://cdn.blossomcraft.dovahkiin.xyz/content/blob/main/CHRONOPUNK/chronobreak.
 ```
 
 You can also use [jsDelivr](https://www.jsdelivr.com/):
-use this setup:
 ```
 https://cdn.jsdelivr.net/gh/Unofficial-BlossomCraft-Wikis/content@main/{Crate Name}/{image name}.png
 ```
