@@ -1,0 +1,1 @@
+All files in this folder are needing to be resized and/or renamed
